@@ -1,9 +1,9 @@
 package game
 
 import (
-	"go-spyder-game/config"
-	"go-spyder-game/models"
-	"go-spyder-game/utils"
+	"go-spyder-game/pkg/config"
+	"go-spyder-game/pkg/models"
+	"go-spyder-game/pkg/utils"
 )
 
 type Snake struct {

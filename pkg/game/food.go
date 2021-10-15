@@ -1,7 +1,7 @@
 package game
 
 import (
-	"go-spyder-game/models"
+	"go-spyder-game/pkg/models"
 	"math/rand"
 )
 

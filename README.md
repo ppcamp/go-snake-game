@@ -33,3 +33,6 @@ go build -o snake main.go
 
 > To make it easier the acquisition of the keyboard (without needing to manage the handlers linux itself)
 > To increasy the test readability basing on "clean code" minimalist styleguide
+
+
+This repo use [git-commitzen](https://github.com/commitizen/cz-cli)

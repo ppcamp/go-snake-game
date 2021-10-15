@@ -1,7 +1,7 @@
 package utils_test
 
 import (
-	"go-spyder-game/utils"
+	"go-spyder-game/pkg/utils"
 	"testing"
 
 	"github.com/stretchr/testify/require"

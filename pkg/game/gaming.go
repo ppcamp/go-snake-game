@@ -2,9 +2,9 @@ package game
 
 import (
 	"fmt"
-	"go-spyder-game/config"
-	"go-spyder-game/models"
-	"go-spyder-game/utils"
+	"go-spyder-game/pkg/config"
+	"go-spyder-game/pkg/models"
+	"go-spyder-game/pkg/utils"
 	"time"
 
 	"github.com/nsf/termbox-go"
