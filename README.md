@@ -24,9 +24,7 @@ go run main.go
 go build -o snake main.go
 ```
 
-## Spent time to make the current version
-
-3hours splitted into 2 days
+![image](https://github.com/ppcamp/go-snake-game/assets/38117637/e1d3778d-ed5a-40c8-918e-dc7e88f5106b)
 
 
 **Why use external libraries?**
