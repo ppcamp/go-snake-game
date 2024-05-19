@@ -8,7 +8,7 @@ Some assumptions about this code:
 - When the snake touch the boundaries, it'll be redirected to the oposite direction (like a portal)
 - The food is randomly placed into the table
 - When the user hits the `ESC` key, the game will stop.
-- The speed (print delay) is fixed.
+- The speed (print delay) depends on your machine, and since we're using ascii chars to render, it may feel that vertical is faster than horizontal.
 - The user can change the key once for each render view.
 
 ## How to run
