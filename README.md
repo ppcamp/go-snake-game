@@ -24,7 +24,8 @@ go run main.go
 go build -o snake main.go
 ```
 
-![image](https://github.com/ppcamp/go-snake-game/assets/38117637/e1d3778d-ed5a-40c8-918e-dc7e88f5106b)
+![Captura de Tela (60)](https://github.com/ppcamp/go-snake-game/assets/38117637/ef2c79d1-6946-42c4-b84e-f7e64ef8d3eb)
+
 
 
 **Why use external libraries?**
